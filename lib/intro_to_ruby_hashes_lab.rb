@@ -4,8 +4,8 @@ end
 
 def my_hash
   profile = {
-    "name" => "Kim"
-    "job" => "cashier"
+    :name => "Kim",
+    :job => "cashier"
   }
 end
 
